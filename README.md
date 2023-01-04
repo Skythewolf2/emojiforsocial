@@ -2,8 +2,8 @@
 
 
 
-#Legal Stuff:
+# Legal Stuff:
 
-##Credits:
+## Credits:
 verified.png
 https://www.flaticon.com/free-icons/verified Verified icon created by Moudesain - Flaticon?
